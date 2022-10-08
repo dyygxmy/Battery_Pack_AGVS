@@ -1,1 +1,2 @@
-# Battery_Pack_AGVS\AGVS_NEW20200618
+# Battery_Pack_AGVS
+AGVS_NEW20200618
